@@ -1,0 +1,7 @@
+- go to your bundle directory (.vim/bundle or .vimbundles) and clone the repo:
+
+  git clone git@github.com:vol222/vim-colorblind-colorscheme.git
+
+  - edit your .vimrc and add:
+
+  :colorscheme color_blind
