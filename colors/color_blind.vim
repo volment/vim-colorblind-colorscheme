@@ -182,7 +182,7 @@ call s:highlight('CursorLineNr' , {'bg': 0})
 call s:highlight('Question'     , {'fg': 243})
 call s:highlight('VertSplit'    , {'attr': 'r', 'fg': 8})
 call s:highlight('Title'        , {'fg': 255})
-call s:highlight('Visual'       , {'bg': 249})
+call s:highlight('Visual'       , {'bg': 15, 'fg': 16})
 call s:highlight('VisualNOS'    , {'attr': 'r'})
 call s:highlight('WildMenu'     , {'attr': 'br', 'fg': 246})
 
