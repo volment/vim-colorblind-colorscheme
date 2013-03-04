@@ -188,7 +188,7 @@ call s:highlight('WildMenu'     , {'attr': 'br', 'fg': 246})
 
 call s:highlight('ErrorMsg'     , {'bg': 9})
 call s:highlight('MoreMsg'      , {'bg': 243})
-call s:highlight('ModeMsg'      , {'bg': 249})
+call s:highlight('ModeMsg'      , {'bg': 249, 'fg': 0})
 call s:highlight('WarningMsg'   , {'fg': 246})
 
 call s:highlight('IncSearch'    , {'attr': 'r'})
