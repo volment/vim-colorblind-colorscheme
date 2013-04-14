@@ -1,6 +1,6 @@
 " Vim colorscheme: basic256
 " Version: 0.0.0
-" Copyright (C) 2010-2011 emonkak <emonkak@gmail.com>
+" Copyright (C) 2010-2011 vol <github@volment.com>
 " License: MIT license  {{{
 "     Permission is hereby granted, free of charge, to any person obtaining
 "     a copy of this software and associated documentation files (the
