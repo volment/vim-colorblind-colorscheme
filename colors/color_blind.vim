@@ -192,7 +192,7 @@ call s:highlight('ModeMsg'      , {'bg': 249, 'fg': 0})
 call s:highlight('WarningMsg'   , {'fg': 246})
 
 call s:highlight('IncSearch'    , {'attr': 'r'})
-call s:highlight('Search'       , {'attr': 'r', 'fg': 246})
+call s:highlight('Search'       , {'attr': 'r', 'fg': 246, 'bg': 0})
 
 call s:highlight('StatusLine'   , {'attr': 'b', 'bg': 8, 'fg': 15})
 call s:highlight('StatusLineNC' , {'bg': 8})
